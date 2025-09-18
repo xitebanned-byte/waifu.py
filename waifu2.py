@@ -19,7 +19,7 @@ from kivymd.uix.card import MDCard
 
 # ---------- CONFIG ----------
 API_URL = "https://api.waifu.im/search?included_tags=ero"
-DOWNLOAD_DIR = "/storage/emulated/0/Download/justscriptz"
+DOWNLOAD_DIR = "/storage/emulated/0/Download/"
 TIMEOUT = 15
 GITHUB_LINK = "https://github.com/xitebanned-byte"
 
